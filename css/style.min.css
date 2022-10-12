@@ -234,8 +234,9 @@ a:hover {
 #gtco-testimonial {
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
-  color: #fff; }
+  background-size: contain;
+  color: #fff;
+  height: 1000px; }
 
 .testi-content {
   text-align: center; }
